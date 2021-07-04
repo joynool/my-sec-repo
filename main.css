@@ -28,3 +28,6 @@ section {
 a:hover {
   background-image: linear-gradient(rgb(95, 95, 241), blue);
 }
+.top-banner {
+  background-image: url(bc.png);
+}
