@@ -1,5 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
+  margin: 0px;
 }
 h1 {
   font-size: 30px;
@@ -30,4 +31,5 @@ a:hover {
 }
 .top-banner {
   background-image: url(bc.png);
+  background-repeat: no-repeat;
 }
