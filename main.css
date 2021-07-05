@@ -16,7 +16,8 @@ section {
   padding-left: 2%;
 }
 .half-width img {
-  width: 80%;
+  width: 300px;
+  height: 300px;
 }
 .link-button {
   text-decoration: none;
@@ -32,4 +33,7 @@ a:hover {
 .top-banner {
   background-image: url(bc.png);
   background-repeat: no-repeat;
+}
+.padding {
+  padding-top: 50px;
 }
