@@ -8,12 +8,22 @@ h1 {
 .orange-color {
   color: orange;
 }
-section {
+.flexible {
   display: flex;
 }
 .half-width {
   width: 50%;
   padding-left: 2%;
+}
+.half-width-2 {
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 10px;
+  box-shadow: 10px 10px 40px grey;
+  border-left: 10px solid orange;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
 }
 .half-width img {
   width: 300px;
@@ -36,4 +46,7 @@ a:hover {
 }
 .padding {
   padding-top: 50px;
+}
+footer {
+  text-align: center;
 }
